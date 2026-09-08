@@ -4,12 +4,6 @@
 
 它将公开资料中提炼出的新概念作文写作理念，与通用散文结构、场景写作、情绪推进和文章修改方法结合起来，形成一套可以重复调用的中文长篇散文写作系统。
 
-## 一键安装
-
-在 Codex 中输入：
-
-```text
-$skill-installer install from GitHub repo Ronnie469469/chinese-narrative-prose-skill path .
 
 ## 核心功能
 
@@ -101,3 +95,11 @@ $narrative-prose
 1. 文章命题
 2. 叙事提纲
 3. 完整正文
+
+
+## 一键安装
+
+在 Codex 中输入：
+
+```text
+$skill-installer install from GitHub repo Ronnie469469/chinese-narrative-prose-skill path .
